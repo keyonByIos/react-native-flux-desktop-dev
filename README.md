@@ -3,7 +3,7 @@
 > 🛠️ Developer‑facing components — terminals, code/JSON/diff viewers, log & resource monitors, Markdown.
 > 🛠️ 面向开发者的组件 —— 终端、代码/JSON/差异查看器、日志与资源监控、Markdown 渲染。
 
-![version](https://img.shields.io/badge/version-0.1.0-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
+![version](https://img.shields.io/badge/version-0.1.3-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
 
 **Depends on / 依赖：** `react-native-flux-desktop`（UI core / UI 核心）· `react-native-flux-desktop-chart`（监控曲线 / sparkline）· `react`
 

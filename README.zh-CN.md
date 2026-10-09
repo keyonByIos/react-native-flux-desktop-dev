@@ -2,7 +2,7 @@
 
 > 🛠️ 面向开发者的组件 —— 终端、代码/JSON/差异查看器、日志与资源监控、Markdown 渲染。
 
-![版本](https://img.shields.io/badge/version-0.1.0-blue) ![许可证](https://img.shields.io/badge/license-MIT-green) ![运行时](https://img.shields.io/badge/%E7%BA%AFReact%C2%B7%E5%8E%9F%E7%94%9F%E5%83%8F%E7%B4%A0%C2%B7%E9%9D%9EElectron-ff69b4)
+![版本](https://img.shields.io/badge/version-0.1.3-blue) ![许可证](https://img.shields.io/badge/license-MIT-green) ![运行时](https://img.shields.io/badge/%E7%BA%AFReact%C2%B7%E5%8E%9F%E7%94%9F%E5%83%8F%E7%B4%A0%C2%B7%E9%9D%9EElectron-ff69b4)
 
 **依赖：** `react-native-flux-desktop`（UI 核心）· `react-native-flux-desktop-chart`（监控曲线）· `react`
 

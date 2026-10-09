@@ -1,7 +1,15 @@
 {
   "name": "react-native-flux-desktop-dev",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Developer/diagnostic components (Terminals, FPS/Mem monitors, ...) for react-native-flux-desktop. Independent package depending on the ui core and the chart suite.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyonByIos/react-native-flux-desktop-dev.git"
+  },
+  "homepage": "https://github.com/keyonByIos/react-native-flux-desktop-dev#readme",
+  "bugs": {
+    "url": "https://github.com/keyonByIos/react-native-flux-desktop-dev/issues"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
