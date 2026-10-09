@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "jsx": "react",
+    "lib": ["ES2020", "DOM"],
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "paths": {
+      "react-native-flux-desktop": ["../desktop-source/dist/src/index.d.ts"],
+      "react-native-flux-desktop-chart": ["../react-native-flux-desktop-chart/dist/index.d.ts"]
+    }
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["dist", "node_modules"]
+}

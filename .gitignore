@@ -1,0 +1,4 @@
+node_modules/
+# 只发布编译产物：dist/ 不忽略（要入库）；不上传源码，src/ 保持忽略
+src/
+*.tsbuildinfo

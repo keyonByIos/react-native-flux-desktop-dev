@@ -1,0 +1,37 @@
+{
+  "name": "react-native-flux-desktop-dev",
+  "version": "0.1.0",
+  "description": "Developer/diagnostic components (Terminals, FPS/Mem monitors, ...) for react-native-flux-desktop. Independent package depending on the ui core and the chart suite.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\""
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native-flux-desktop": ">=0.1.0",
+    "react-native-flux-desktop-chart": ">=0.1.0"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "react-native-flux-desktop": {
+      "optional": true
+    },
+    "react-native-flux-desktop-chart": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.3.12",
+    "react": "18.3.1",
+    "typescript": "^5.4.5"
+  },
+  "license": "MIT"
+}
